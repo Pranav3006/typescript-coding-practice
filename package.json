@@ -1,0 +1,27 @@
+{
+  "name": "typescript-coding-practice",
+  "version": "1.0.0",
+  "description": "My TypeScript and problem-solving practice repo (22 Nov 2026 to 5 Feb 2027): TypeScript from fundamentals to advanced, and interview-style problems organised by pattern.\r Each problem folder has the solution, a test, and notes on the approach and time/space complexity.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "typecheck": "tsc --noEmit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pranav3006/typescript-coding-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Pranav3006/typescript-coding-practice/issues"
+  },
+  "homepage": "https://github.com/Pranav3006/typescript-coding-practice#readme",
+  "devDependencies": {
+    "@types/node": "^26.6.6",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2"
+  }
+}
